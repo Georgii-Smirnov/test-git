@@ -1,9 +1,5 @@
 body {
+  background: red;
   font-size: 50px;
-  background-color: black;
-  display: flex;
-  color: aliceblue;
-  align-items: center;
-  justify-content: center;
 }
 
